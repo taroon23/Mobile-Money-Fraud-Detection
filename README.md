@@ -99,8 +99,7 @@ The model uses only transaction-time data to avoid data leakage:
 ```
 fraud-detection/
 │
-├── fraud_detection_analysis.ipynb    # Main Jupyter notebook with complete analysis
-├── Synthetic_Financial_datasets_log.csv    # Dataset (6.3M transactions)
+├── paysim_fraud_detection.ipynb    # Main Jupyter notebook with complete analysis
 └── README.md    # This file
 ```
 
